@@ -1,0 +1,17 @@
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.csproj.AssemblyReference.cache
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.GeneratedMSBuildEditorConfig.editorconfig
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.AssemblyInfoInputs.cache
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.AssemblyInfo.cs
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.csproj.CoreCompileInputs.cache
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\bin\Debug\CShart-G4.deps.json
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\bin\Debug\CShart-G4.runtimeconfig.json
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\bin\Debug\CShart-G4.dll
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\bin\Debug\CShart-G4.pdb
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.csproj.CopyComplete
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.dll
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\refint\CShart-G4.dll
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.pdb
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\CShart-G4.genruntimeconfig.cache
+D:\game-repo\Godot4\CShart-G4\.godot\mono\temp\obj\Debug\ref\CShart-G4.dll

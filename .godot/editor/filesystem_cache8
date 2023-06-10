@@ -1,0 +1,6 @@
+2a60927148abd1d33b818b535e306557
+::res://::1686425891
+icon.svg::CompressedTexture2D::4168783674173754024::1683842088::1683842099::1::::<><>::
+Test.cs::CSharpScript::-1::1683842401::0::1::::<><>::
+World.gd::GDScript::-1::1683842209::0::1::::<>Node2D<>::
+world.tscn::PackedScene::6879226631571232380::1685129442::0::1::::<><>::res://World.gd<>res://Test.cs
