@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://dh8bsxcfu7vb7"]
+
+[ext_resource type="Texture2D" uid="uid://ot46khdqctkl" path="res://FlappyBird/assets/textures/background.png" id="1_x1mbg"]
+[ext_resource type="PackedScene" uid="uid://bf31gt0bayb4x" path="res://FlappyBird/Characters/Player.tscn" id="2_ay6o4"]
+
+[node name="FB_GameDemo" type="Node2D"]
+
+[node name="Background" type="Sprite2D" parent="."]
+texture = ExtResource("1_x1mbg")
+centered = false
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("2_ay6o4")]
+position = Vector2(110, 452)
